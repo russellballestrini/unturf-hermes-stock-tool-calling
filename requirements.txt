@@ -1,4 +1,5 @@
 streamlit
+streamlit_chat
 openai
 plotly
 yfinance
