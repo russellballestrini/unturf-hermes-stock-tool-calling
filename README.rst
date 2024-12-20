@@ -130,3 +130,20 @@ Contact
 -------
 
 For any inquiries or support, please open an issue on the `GitHub repository <https://github.com/russellballestrini/unturf-hermes-stock-tool-calling>`_.
+
+
+Screenshots
+-------------
+
+.. image:: stock.png
+  :width: 640
+
+---
+
+.. image:: stock2.png
+  :width: 640
+
+---
+
+.. image:: stock3.png
+  :width: 640
