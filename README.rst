@@ -1,4 +1,3 @@
-```rst
 Unturf Hermes Stock Tool Calling
 ================================
 
